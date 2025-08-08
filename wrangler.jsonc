@@ -17,14 +17,6 @@
     "directory": ".open-next/assets",
     "binding": "ASSETS"
   },
-  "d1_databases": [
-    {
-      "binding": "D1",
-      "database_id": "1cd29375-9e73-48ca-b595-eed8bebc2118",
-      "database_name": "my-app",
-      "experimental_remote": true
-    }
-  ],
   "services": [
     {
       "binding": "WORKER_SELF_REFERENCE",
